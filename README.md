@@ -146,8 +146,8 @@ Educational use only. Vulnerable code samples are for learning purposes. Never u
 ## 📞 Connect
 
 - View live portfolio: Open `index.html` in a browser
-- Email: [your.email@example.com]
-- LinkedIn: [Your LinkedIn Profile]
+- Email: [mgwesheethandwa10@gmail.com]
+- LinkedIn: [www.linkedin.com/in/ethandwa-m-84a50930a]
 - GitHub: [Your GitHub Profile]
 
 ---
